@@ -9,3 +9,8 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 3. Install plugins
     - get into tmux
     - and press: <prefix(Ctrl-a) + I> to install all plugins
+
+
+---
+
+See also [tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) for more information
