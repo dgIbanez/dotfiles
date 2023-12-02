@@ -1,5 +1,5 @@
 # Intalation and restoring guide
-
+## Tmux 3.2a
 1. Copy `.tmux.conf` to your home direcory
 2. Clone tpm(tmux plugin manager) repository
 ```bash
