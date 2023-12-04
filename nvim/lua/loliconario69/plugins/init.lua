@@ -1,0 +1,5 @@
+require("loliconario69.plugins.lualine")
+require("loliconario69.plugins.nvim-tree")
+require("loliconario69.plugins.telescope")
+require("loliconario69.plugins.treesitter")
+require("loliconario69.plugins.gitsigns")

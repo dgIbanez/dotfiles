@@ -32,6 +32,7 @@ opt.clipboard:append("unnamedplus")
 opt.splitright = false
 opt.splitbelow = true
 
+-- take the hyphen character into consideration as part of a word
 opt.iskeyword:append("-")
 
 

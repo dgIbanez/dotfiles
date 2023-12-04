@@ -17,7 +17,7 @@ return require('packer').startup(function(use)
   use 'nvim-lua/plenary.nvim'  -- required by others plugins
 
   -- color scheme
-  use 'bluz71/vim-nightfly-guicolors'
+  -- use 'bluz71/vim-nightfly-guicolors'
 
   -- tmux comatibility and pane focus for nvim
   use 'christoomey/vim-tmux-navigator'
