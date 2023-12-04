@@ -1,5 +1,5 @@
-require("loliconario69.plugins.lualine")
-require("loliconario69.plugins.nvim-tree")
-require("loliconario69.plugins.telescope")
-require("loliconario69.plugins.treesitter")
-require("loliconario69.plugins.gitsigns")
+return {
+  "nvim-lua/plenary.nvim", -- lua functions that many plugins use
+
+  "christoomey/vim-tmux-navigator", -- tmux & split window navigation
+}
