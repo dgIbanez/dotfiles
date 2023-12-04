@@ -24,3 +24,5 @@ Edit the key <CAPS> mapping like so:
         actions[Group1] = [ SetMods(mods = Control), LockMods(mods = Lock) ]
     };
 ```
+
+### After do that, add `setxkbmap -option caps:escape_shifted_capslock` to your .zshrc
