@@ -1,3 +1,5 @@
+#import = ["~/.config/alacritty/catppuccin/catppuccin-mocha.toml"]
+
 live_config_reload = true
 
 [font.bold]
@@ -17,8 +19,9 @@ family = "MesloLGS NF"
 style = "Regular"
 
 [font]
-size = 11
-
+size = 12
 [window.padding]
 x = 5
 y = 10
+
+

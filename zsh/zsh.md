@@ -17,7 +17,17 @@ zsh --version
 chsh -s $(which zsh)
 ```
 
-## Install Oh-My-Zsh
+### 4 - Install Oh-My-Zsh
 ```bash
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+### 5 - Install powerlevel10k theme
+```bash
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
+```
+
+### 6 - Into .zshrc set:
+```bash
+ZSH_THEME="powerlevel10k/powerlevel10k"
 ```
