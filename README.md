@@ -5,7 +5,7 @@ This config is for Ubuntu 22.04 LTS
 
 ## 1 - [Alacritty (Terminal)](alacritty/alacritty.md)
 
-## 2 - ZSH (Shell)
+## 2 - [ZSH (Shell)](zsh/zsh.md)
 - Oh-my-zsh
 - powerlevel10k
 
