@@ -1,4 +1,4 @@
-# ZSH
+# ZSH 5.8.1
 
 ## Guide to change from bash to zsh
 
@@ -7,7 +7,7 @@
 sudo apt install zsh
 ```
 
-### 2 - Veriry if zsh has been installed properly
+### 2 - Verify if zsh has been installed properly
 ```bash
 zsh --version
 ```

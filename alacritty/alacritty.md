@@ -1,4 +1,4 @@
-# Alacritty
+# Alacritty 0.13.0-dev (c0c267d6)
 
 This is a guide that collects all steps to build and install Alacritty.
 
