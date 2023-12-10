@@ -47,7 +47,7 @@ sudo update-desktop-database
 
 #### 7 - Dependencies for manual pages: gzip and scdoc
 ```bash
-apt install gzip scdoc
+sudo apt install gzip scdoc
 ```
 
 #### 8 - Install manual pages(man)
