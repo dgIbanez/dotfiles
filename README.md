@@ -14,6 +14,8 @@ The alacritty folder must be located into `~/.config` directory
 
 Copy the `.p10k.zsh` and `.zshrc` to your home directory
 
-### 3 - Tmux (Terminal multiplexer)
+### 3 - [Tmux (Terminal multiplexer)](tmux/tmux.md)
+Copy the `.tmux.conf` to your home directory
 
-### 4 - Nvim (Code editor)
+### 4 - [Nvim (Code editor)](nvim/nvim.md)
+The nvim folder must be located into `~/.config` directory
