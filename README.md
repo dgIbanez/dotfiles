@@ -19,3 +19,5 @@ Copy the `.tmux.conf` to your home directory
 
 ### 4 - [Nvim (Code editor)](nvim/nvim.md)
 The nvim folder must be located into `~/.config` directory
+
+### 5- [Others_configs](others_configs/KeyboardRemap.md)

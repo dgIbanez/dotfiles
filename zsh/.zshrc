@@ -30,3 +30,14 @@ source $ZSH/oh-my-zsh.sh
 
 
 . /home/loliconario/.cargo/env
+eval "$(dircolors ~/.dircolors)"
+
+# --------- aliases -------------
+alias vim="nvim"
+
+# lsd aliases
+alias ls="lsd"
+alias l='ls -l'
+alias la='ls -a'
+alias lla='ls -la'
+alias lt='ls --tree'

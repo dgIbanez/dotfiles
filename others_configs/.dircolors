@@ -1,0 +1,2 @@
+STICKY_OTHER_WRITABLE 30;01 # dir that is sticky and other-writable (+t,o+w)
+OTHER_WRITABLE 34;01 # dir that is other-writable (o+w) and not sticky
